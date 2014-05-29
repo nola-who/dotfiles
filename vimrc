@@ -2,7 +2,7 @@
 execute pathogen#infect()
 
 " Start go syntax
-"syntax on
+" syntax on
 filetype plugin on
 
 " Start colorscheme
